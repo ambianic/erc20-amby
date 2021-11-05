@@ -3,7 +3,8 @@
 
 
 # erc20-amb
-ERC20 smart contract for the AMB Community Token.
+
+Ethereum ERC20 compliant smart contract for the AMB Community Token.
 
 AMB is a utility token meant to recognize contributions to the Ambianic.ai project.
 
