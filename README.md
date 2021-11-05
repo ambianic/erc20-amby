@@ -10,7 +10,7 @@ AMB is a utility token meant to recognize contributions to the Ambianic.ai proje
 
 In its initial version it is only a token of appreciation without any value other than a public, measurable and non-repudiable way to recognize and record contributions.
 
-There is an active community discussion how to utilize AMB tokens within the community network and create an incentive system for all participants: maintainers, contributors, and end users. We would ideally find a way to incentivize fairly contributors of all kinds: coders, testers, marketers, podcasters, bloggers, voters, governers and other yet to be discovered roles adding true value to the ecosystem.
+There is an active community discussion how to utilize AMB tokens within the community network. We would like to create a decentralized incentive system for all participants: maintainers, contributors, and end users. We would ideally find a way to construct a long lasting DAO that incentivizes fairly contributors of all kinds: coders, testers, marketers, podcasters, bloggers, voters, governers and other yet to be discovered roles adding true value to the ecosystem.
 
 If you would like to join our discussion, hop in our public [slack space](https://ambianicai.slack.com/join/shared_invite/zt-eosk4tv5-~GR3Sm7ccGbv1R7IEpk7OQ#/).
 
