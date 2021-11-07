@@ -1,10 +1,10 @@
 // scripts/deploy.js
 async function main () {
-  const Box = await ethers.getContractFactory('Box');
-  console.log('Deploying Box...');
-  const box = await upgrades.deployProxy(Box, [42]);
-  await box.deployed();
-  console.log('Box deployed to:', box.address);
+  const AMB = await ethers.getContractFactory('AmbianicToken');
+  console.log('Deploying AmbianicToken...');
+  const amb = await upgrades.deployProxy(AMB);
+  await amb.deployed();
+  console.log('AmbianicToken deployed to:', amb.address);
 }
 
 main()

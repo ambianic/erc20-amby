@@ -1,3 +1,4 @@
+// contracts/AmbianicToken.sol
 // SPDX-License-Identifier: Apache 2.0
 pragma solidity ^0.8.2;
 
@@ -8,7 +9,7 @@ import "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol"
 import "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol";
 
 /// @custom:security-contact security@ambianic.ai
-contract Ambianic is Initializable, ERC20Upgradeable, ERC20BurnableUpgradeable, PausableUpgradeable, AccessControlUpgradeable {
+contract AmbianicToken is Initializable, ERC20Upgradeable, ERC20BurnableUpgradeable, PausableUpgradeable, AccessControlUpgradeable {
     bytes32 public constant PAUSER_ROLE = keccak256("PAUSER_ROLE");
     bytes32 public constant MINTER_ROLE = keccak256("MINTER_ROLE");
 
@@ -16,7 +17,7 @@ contract Ambianic is Initializable, ERC20Upgradeable, ERC20BurnableUpgradeable, 
     constructor() initializer {}
 
     function initialize() initializer public {
-        __ERC20_init("Ambianic", "AMB");
+        __ERC20_init("AmbianicToken", "AMB");
         __ERC20Burnable_init();
         __Pausable_init();
         __AccessControl_init();

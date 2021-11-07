@@ -14,7 +14,7 @@ module.exports = {
   networks: {
     rinkeby: {
       url: `https://rinkeby.infura.io/v3/${infuraKey}`,
-      accounts: { mnemonic }
+      accounts: [ mnemonic ]
     }
   },
   solidity: '0.8.2'
