@@ -1,14 +1,14 @@
 [![Join the Slack chat room](https://img.shields.io/badge/Slack-Join%20the%20chat%20room-blue?logo=slack)](https://join.slack.com/t/ambianicai/shared_invite/zt-eosk4tv5-~GR3Sm7ccGbv1R7IEpk7OQ)
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ambianic/erc20-amb)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ambianic/erc20-amby)
 
 
 # Ambianic Token of Appreciation  <img src="https://user-images.githubusercontent.com/2234901/140630072-e1aa548d-24b6-4585-bc10-0deee39df77c.png" width="36"/>
 
-Ethereum ERC20 compliant smart contract for the AMB Community Token.
+Ethereum ERC20 compliant smart contract for the AMBY Community Token.
 
-In its initial version AMB is a token of appreciation meant to recognize contributions to the projects in a public, permanent, measurable and non-repudiable way.
+In its initial version AMBY is a token of appreciation meant to recognize contributions to the Ambianic project in a public, permanent, measurable and non-repudiable way.
 
-There is an active community discussion how to utilize AMB tokens in the future within the community network. We would like to create a Web 3 decentralized incentive system for all participants: maintainers, contributors, and end users. We would ideally find a way to construct a long lasting DAO that incentivizes fairly contributors of all kinds: coders, testers, marketers, podcasters, bloggers, voters, governers and other yet to be discovered roles adding true value to the ecosystem.
+There is an active community discussion how to utilize AMBY tokens in the future within the community network. We would like to create a Web 3 decentralized incentive system for all participants: maintainers, contributors, and end users. We would ideally find a way to construct a long lasting DAO that incentivizes fairly contributors of all kinds: coders, testers, marketers, podcasters, bloggers, voters, governers and other yet to be discovered roles adding true value to the ecosystem.
 
 # Why?
 
@@ -49,7 +49,7 @@ All necessary configuration variables are sourced through a `.env` file at the r
 Create a `.env` file and make sure it defines the env required variables. Your `.env` should look like this:
 
 ```
-MNEMONIC=<your Ethereum development account mnemonic>
+MNEMONIC=<your Ethereum DEVELOPMENT account hardware mnemonic or software private key>
 INFURA_API_KEY=<key to an Infura project under your control>
 DEFENDER_TEAM_API_KEY=<Defender API key with permissions to interact with Admin>
 DEFENDER_TEAM_API_SECRET_KEY=<secret key corresponding to the team API key above>
@@ -64,9 +64,9 @@ Some resources to help you get each of this:
    1. https://infura.io/docs/ethereum#section/Securing-Your-Credentials
 3. DEFENDER Team API keys: https://docs.openzeppelin.com/defender/guide-upgrades#create-defender-team-api-key
 
-## Deploying an upgradeable contract
+## Deploying an initial version of the contract
 
-To deploy the initial version of simply run:
+To deploy the initial version on Rinkeby Test Net simply run:
 
 `npx hardhat run --network rinkeby scripts/deploy.js`.
 

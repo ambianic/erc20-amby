@@ -1,0 +1,6 @@
+tasks:
+  - init: |
+      npm install
+      npm update
+      npm audit fix
+      npm outdated
