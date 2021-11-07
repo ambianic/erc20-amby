@@ -2,7 +2,7 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ambianic/erc20-amb)
 
 
-# erc20-amb
+# Ambianic Token of Appreciation
 
 Ethereum ERC20 compliant smart contract for the AMB Community Token.
 
