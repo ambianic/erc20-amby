@@ -17,7 +17,7 @@ contract AmbianicToken is Initializable, ERC20Upgradeable, ERC20BurnableUpgradea
     constructor() initializer {}
 
     function initialize() initializer public {
-        __ERC20_init("AmbianicToken", "AMBY");
+        __ERC20_init("AmbianicToken", "AMB");
         __ERC20Burnable_init();
         __Pausable_init();
         __AccessControl_init();
