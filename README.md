@@ -8,9 +8,13 @@ Ethereum ERC20 compliant smart contract for the AMBY Community Token.
 
 In its initial version AMBY is nothing more than a token of appreciation meant to recognize contributions to the Ambianic project in a public, permanent, measurable and non-repudiable way. It has no other initial intrinsic or intended value.
 
-There is an active community discussion how to utilize AMBY tokens in the future within the community network. We would like to create a Web 3 decentralized incentive system for all participants: maintainers, contributors, and end users. We would ideally find a way to construct a long lasting DAO that incentivizes fairly contributors of all kinds: coders, testers, marketers, podcasters, bloggers, voters, governers and other yet to be discovered roles adding true value to the ecosystem.
+There is an active community discussion how to utilize AMBY tokens in the future within the community network. We would like to create a Web 3 decentralized incentive system for all participants: maintainers, contributors, and end users. We would ideally find a way to construct a long lasting [crypto governance](https://a16z.com/2021/02/05/on-crypto-governance/) system such as a [DAO](https://future.a16z.com/building-and-running-a-dao-why-governance-matters/) that incentivizes fairly contributors of all kinds and in all stages of the project: coders, testers, marketers, podcasters, bloggers, voters, governers and other yet to be discovered roles adding true value to the ecosystem.
 
 # Why?
+
+There are a number of friction points with the traditional startup founding and scaling cycle. [This video](https://www.youtube.com/watch?v=VL5V16HAjYA), co-founder and CEO of Coinbase is a great summary on the topic.
+
+When it comes to Open Source projects, the issues of funding and sustainability are even more pronounced.
 
 In [this great a16z blog post](https://future.a16z.com/crypto-business-model/
 ), Jesse Waldem correctly points out what many of us have experienced first hand through involvement in previous Open Source projects over the years.
