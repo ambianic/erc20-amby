@@ -4,6 +4,7 @@ require("@openzeppelin/hardhat-upgrades");
 require('@openzeppelin/hardhat-defender');
 
 const mnemonic = process.env.MNEMONIC;
+console.debug('process.env.MNEMONIC', mnemonic)
 const infuraKey = process.env.INFURA_API_KEY;
 
 module.exports = {
