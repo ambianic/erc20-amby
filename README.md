@@ -6,7 +6,7 @@
 
 Ethereum ERC20 compliant smart contract for the AMBY Community Token.
 
-In its initial version AMBY is a token of appreciation meant to recognize contributions to the Ambianic project in a public, permanent, measurable and non-repudiable way.
+In its initial version AMBY is nothing more than a token of appreciation meant to recognize contributions to the Ambianic project in a public, permanent, measurable and non-repudiable way. It has no other initial intrinsic or intended value.
 
 There is an active community discussion how to utilize AMBY tokens in the future within the community network. We would like to create a Web 3 decentralized incentive system for all participants: maintainers, contributors, and end users. We would ideally find a way to construct a long lasting DAO that incentivizes fairly contributors of all kinds: coders, testers, marketers, podcasters, bloggers, voters, governers and other yet to be discovered roles adding true value to the ecosystem.
 
@@ -26,8 +26,8 @@ However Ambianic is also a growing community of peers who collaborate on researc
 Consumers are becoming alert to the risks of centralized Web 2 cloud companies collecting their private data. Governments around the world are also putting increasing pressure on Web 2 companies to stop collecting private user data. This shifts AI research and applications from centralized Web 2 infrastructure and tooling towards decentralized and privacy preserving Web 3 alternatives.
 
 There are 3 pillars of the Ambianic ecosystem that we think will require Web 3 incentives for long term sustainability:
-- Local on-device AI training on user owned devices with user private data
 - Local AI labeling by end users on their private data
+- Local on-device AI training on user owned devices with user private data
 - Federated Learning across participating devices owned by cohorts of users who wish to collectively improve a specific AI model (e.g. fall detection, license plate recognition, classifying bird species).
 
 If you would like to take part in this discussion, now is a great time to join our [public slack space](https://ambianicai.slack.com/join/shared_invite/zt-eosk4tv5-~GR3Sm7ccGbv1R7IEpk7OQ#/).
