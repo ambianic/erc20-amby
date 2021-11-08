@@ -2,11 +2,12 @@
 const { ethers } = require("hardhat");
 
 async function main () {
-  const newImplName = 'BoxV2';
+  const newImplName = 'AmbianicTokenV1_0_1';
   const NewImpl = await ethers.getContractFactory(newImplName);
   console.log(`Upgrading to ${newImplName}...`);
-  await upgrades.upgradeProxy('replace with your proxy address', NewImpl);
-  console.log(`Box upgraded to:`, newImplName);
+  const proxyAddress = '0xC55FdeA8483B1b1e4F0ECC56848e63d2224d89c4'
+  await upgrades.upgradeProxy(proxyAddress, NewImpl);
+  console.log(`AmbianicToken upgraded to:`, newImplName);
 }
 
 main()
