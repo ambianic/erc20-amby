@@ -12,7 +12,7 @@ There is an active community discussion how to utilize AMBY tokens in the future
 
 # Why?
 
-There are a number of friction points with the traditional startup founding and scaling cycle. [This video](https://www.youtube.com/watch?v=VL5V16HAjYA), co-founder and CEO of Coinbase is a great summary on the topic.
+There are a number of friction points with the traditional startup founding and scaling cycle. [This video](https://www.youtube.com/watch?v=VL5V16HAjYA) by the co-founder and CEO of Coinbase is a great summary on the topic.
 
 When it comes to Open Source projects, the issues of funding and sustainability are even more pronounced.
 
