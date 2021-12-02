@@ -4,7 +4,7 @@
 
 # Ambianic Token of Appreciation  <img src="https://user-images.githubusercontent.com/2234901/140630072-e1aa548d-24b6-4585-bc10-0deee39df77c.png" width="36"/>
 
-Ethereum ERC20 compliant smart contract for the AMBY Community Token.
+Ethereum ERC20 compliant smart contract for the AMBY Social Token.
 
 In its initial version AMBY is nothing more than a token of appreciation meant to recognize contributions to the Ambianic project in a public, permanent, measurable and non-repudiable way. It has no other initial intrinsic or intended value.
 
